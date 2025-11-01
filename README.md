@@ -1,0 +1,1 @@
+This is my final project: it is the flappy bird clone. I read through and understood the code and how to make this project with the help of the blog on Codedex and ChatGPT. I am unable to upload my assets folder, but the game works on my laptop. Thank you!
